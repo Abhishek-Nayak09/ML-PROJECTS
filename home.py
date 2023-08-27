@@ -5,10 +5,6 @@ def main():
     st.write("Explore Our Machine Learning Model Showcase")
 
     model_details = {
-        "Texas Salary Prediction": {
-            "Description": "Tired of the old-fashioned, error-prone payroll systems? Dive into our Texas Salary Prediction project, where we leverage advanced algorithms to forecast salaries accurately. Say goodbye to delays and inefficiencies, and hello to streamlined financial planning and contented state employees.",
-            "Link": "https://texas-salary-prediction-app-deployment-abhi.streamlit.app/"
-        },
         "Skin Disorder Prediction": {
             "Description": "Experience the intersection of AI and healthcare through our Skin Disorder Prediction project. Our cutting-edge machine learning models empower doctors to swiftly identify skin diseases, enabling prompt treatment and better patient care.",
             "Link": "https://skin-disorder-ml-project-abhi.streamlit.app/"
